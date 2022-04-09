@@ -2,7 +2,7 @@
 
 #### Hi there 👋
 
-#### I'm Lucas Boscariole, I'm from Brazil and I love to code and and dogs! Since 2021 I'm working as a frontend developer specialized in React.js developement. I'm eager to learn and code new things.
+#### I'm Lucas Boscariole, I'm from Brazil and I love to code and dogs! Since 2021 I'm working as a frontend developer specialized in React.js developement. I'm eager to learn and code new things.
 ### 🖥️ Technologies and Tools
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title = "REACT"/></code>&nbsp;
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title = "NEXT"/></code>&nbsp;
