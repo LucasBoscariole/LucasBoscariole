@@ -42,3 +42,4 @@
 </div>
   
 
+![Snake animation](https://github.com/lucasboscariole/lucasboscariole/blob/output/github-contribution-grid-snake.svg)
