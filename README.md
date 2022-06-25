@@ -25,7 +25,7 @@
 </div>
 
 ##### I'm currently learning
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" width='30' height='30' title='PYTHON'/></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='30' height='30' title='NODE'/></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width='30' height='30' title='EXPRESS'/></code>&nbsp;
 
 <br/>
