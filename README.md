@@ -21,7 +21,7 @@
 
 <div display="inline-block">
 	<p align="left">🤖 Lead Frontend Developer at <a href="https://color.museum/" target="_blank"><b>Color Museum</b></a>;</p>
-	<p align="left">🐕 Father of 3 dogs!</p>
+	<p align="left">🐕 Father of 3 dogs and a cat!</p>
 	<p align="left">🧳 I love to travel and play FPS games.</p>
 </div>
 
