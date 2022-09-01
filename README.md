@@ -2,14 +2,14 @@
 
 #### Hi there 👋
 
-#### I'm Lucas Boscariole, I'm from Brazil and I love to code and dogs! Since 2021 I'm working as a frontend developer specialized in React.js developement. I'm eager 
-to learn and code new things.
+#### I'm Lucas Boscariole, I'm from Brazil and I love to code and dogs! Since 2021 I'm working as a frontend developer specialized in React.js developement. I'm eager to learn and code new things.
 
 ### Here is my portfolio website: <a href="https://lucasboscariole.com/" target="_blank"><b>Lucas Boscariole Silva.</b></a>
 
 ### 🖥️ Technologies and Tools
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title = "REACT"/></code>&nbsp;
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title = "NEXT"/></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width='30' height='30' title='REDUX'/></code>&nbsp;
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title = "TAILWIND CSS"/></code>&nbsp;
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>&nbsp;
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>&nbsp;
@@ -21,6 +21,7 @@ to learn and code new things.
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='30' height='30' title='TYPESCRIPT'/></code>&nbsp;         
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width='30' height='30' title='SCSS/SASS'/></code>&nbsp;
 
+
 <br/>
 
 <div display="inline-block">
@@ -30,8 +31,8 @@ to learn and code new things.
 </div>
 
 ##### I'm currently learning
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='30' height='30' title='NODE'/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width='30' height='30' title='EXPRESS'/></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='30' height='30' title='PYTHON'/></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width='30' height='30' title='DJANGO'/></code>&nbsp;
 
 <br/>
 
