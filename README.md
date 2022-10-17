@@ -32,7 +32,7 @@
 
 ##### I'm currently learning
 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width='30' height='30' title='NODE'/></code>nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width='30' height='30' title='NODE'/></code>&nbsp;
 
 <br/>
 
