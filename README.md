@@ -31,8 +31,8 @@
 </div>
 
 ##### I'm currently learning
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='30' height='30' title='PYTHON'/></code>&nbsp;
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width='30' height='30' title='DJANGO'/></code>&nbsp;
+
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width='30' height='30' title='NODE'/></code>nbsp;
 
 <br/>
 
