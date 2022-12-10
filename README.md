@@ -26,7 +26,7 @@
 
 <div display="inline-block">
 	<p align="left">🤖 Looking for work.</p>
-	<p align="left">🐕 Father of 3 dogs and a cat!</p>
+	<p align="left">🐕 Father of 3 dogs and 2 cats!</p>
 	<p align="left">🧳 I love to travel and play FPS games.</p>
 </div>
 
