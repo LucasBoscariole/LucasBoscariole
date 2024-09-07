@@ -32,7 +32,7 @@
 
 ##### I'm currently learning
 
-<code><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg)"  width='30' height='30' title='FLUTTER'/></code>&nbsp;
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width='30' height='30' title='FLUTTER'/></code>&nbsp;
 
 <br/>
 
