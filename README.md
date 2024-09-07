@@ -20,7 +20,7 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>&nbsp;
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='30' height='30' title='TYPESCRIPT'/></code>&nbsp;         
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width='30' height='30' title='SCSS/SASS'/></code>&nbsp;
-
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width='30' height='30' title='NODE'/></code>&nbsp;
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 ##### I'm currently learning
 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width='30' height='30' title='NODE'/></code>&nbsp;
+<code><img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg)"  width='30' height='30' title='FLUTTER'/></code>&nbsp;
 
 <br/>
 
